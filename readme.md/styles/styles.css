@@ -1,0 +1,26 @@
+.blog-title:hover{
+    text-decoration: underline;
+
+    color:#b34848;
+}
+
+.blog-post-title:hover {
+    
+    text-decoration: underline;
+    color: #b34848;
+    
+
+
+}
+ html{
+    font-size: 14px;
+ }
+
+ .nav{
+    background-color: #b34848;
+ }
+
+ h2,h3,h4{
+    color: #b34848
+ }
+
